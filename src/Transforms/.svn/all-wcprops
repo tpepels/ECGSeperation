@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/ECGSeparation/src/Transforms
+END
+Complex.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/88/trunk/ECGSeparation/src/Transforms/Complex.java
+END
+CWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/97/trunk/ECGSeparation/src/Transforms/CWT.java
+END
+Spectrogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/90/trunk/ECGSeparation/src/Transforms/Spectrogram.java
+END
+FastICA.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/100/trunk/ECGSeparation/src/Transforms/FastICA.java
+END
+NoiseReduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/91/trunk/ECGSeparation/src/Transforms/NoiseReduction.java
+END
+ComplexWavelet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/99/trunk/ECGSeparation/src/Transforms/ComplexWavelet.java
+END
+DFT.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/82/trunk/ECGSeparation/src/Transforms/DFT.java
+END
+DWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/91/trunk/ECGSeparation/src/Transforms/DWT.java
+END

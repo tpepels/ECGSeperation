@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/99/trunk/ECGSeparation/src/GUI
+END
+SpectoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/ECGSeparation/src/GUI/SpectoPanel.java
+END
+SpectoPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/59/trunk/ECGSeparation/src/GUI/SpectoPanel.form
+END
+GraphPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/82/trunk/ECGSeparation/src/GUI/GraphPanel.java
+END
+GraphPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/ECGSeparation/src/GUI/GraphPanel.form
+END
+ECGFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/ECGSeparation/src/GUI/ECGFrame.java
+END
+ECGFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/ECGSeparation/src/GUI/ECGFrame.form
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/70/trunk/ECGSeparation/src/GUI/Utils.java
+END
+ComboItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9/trunk/ECGSeparation/src/GUI/ComboItem.java
+END
